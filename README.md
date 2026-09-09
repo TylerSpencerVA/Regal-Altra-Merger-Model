@@ -9,7 +9,7 @@ figures Regal Rexnord disclosed separately.
 
 The full file can be downloaded here: https://github.com/TylerSpencerVA/Regal-Altra-Merger-Model/blob/main/Regal%20Rexnord%20Altra%20Merger%20Model.xlsx
 
-The pdf can be viewed here:
+The pdf can be viewed here: https://github.com/TylerSpencerVA/Regal-Altra-Merger-Model/blob/main/Regal%20Rexnord%20Altra%20Merger%20Model.pdf
 
 ---
 
