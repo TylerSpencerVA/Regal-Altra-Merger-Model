@@ -7,6 +7,8 @@ Every input comes from information public as of **March 1, 2023**, the date Altr
 filed its FY2022 10-K and roughly four weeks before close. Three checks reconcile model output to
 figures Regal Rexnord disclosed separately.
 
+The full file can be downloaded here: https://github.com/TylerSpencerVA/Regal-Altra-Merger-Model/blob/main/Regal%20Rexnord%20Altra%20Merger%20Model.xlsx
+
 ---
 
 ## Conclusion
